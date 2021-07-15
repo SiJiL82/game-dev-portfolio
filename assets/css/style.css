@@ -294,3 +294,40 @@ header {
     /* Borders */
     border-bottom: 1px solid var(--highlight-colour);
 }
+
+/* Contact Page */
+.contact-form {
+    /* Positioning */
+    clear: both;
+
+    /* Text */
+    font-family: var(--content-font);
+    font-size: 120%;
+}
+
+/* Debug */
+.contact-form * {
+    border: 1px solid red;
+}
+
+.contact-form-grid {
+    /* Positioning */
+    display: grid;
+    grid-template-columns: 10% auto-fit;
+    grid-gap: 0.3em 0.6em;
+    grid-auto-flow: dense;
+  }
+  
+.contact-form-grid input, output, textarea, select, button {
+    /* Positioning */
+    grid-column: 2 / 4;
+
+    /* Sizing */
+    width: auto;
+
+    /* Spacing */
+    margin: 0;
+  }
+
+  
+  
