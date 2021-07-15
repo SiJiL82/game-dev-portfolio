@@ -246,3 +246,8 @@ header {
     width: 33%;
     float: left;
 }
+
+.about-description {
+    float: right;
+}
+
