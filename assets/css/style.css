@@ -12,6 +12,7 @@
 
     /* Fonts */
     --header-font: Voltaire, sans-serif;
+    --content-font: PT Sans, sans-serif;
 }
 
 /* Clear spacing and border values for all objects */
@@ -149,4 +150,13 @@ header {
 
     /* Positioning */
     float: right;
+}
+
+.portfolio-item-summary {
+    /* Text */
+    font-family: var(--content-font);
+    text-align: justify;
+
+    /* Positioning */
+    clear: both;
 }
