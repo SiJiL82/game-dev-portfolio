@@ -165,6 +165,7 @@ header {
 
 .portfolio-item img {
     /* Sizing */
+    max-width: 100%;
     width: auto;
     height: 100%;
 
@@ -242,12 +243,17 @@ header {
 }
 
 /* About page */
-.about-photo {
+#about-photo {
     width: 33%;
     float: left;
+    margin: 0 auto;
 }
 
-.about-description {
+#about-description {
+    width: 66%;
     float: right;
 }
 
+#about-links {
+    clear: both;
+}
