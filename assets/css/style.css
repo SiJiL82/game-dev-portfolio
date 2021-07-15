@@ -72,6 +72,7 @@ header {
     /* Borders */
     border-left: 1px solid var(--highlight-colour);
     border-right: 1px solid var(--highlight-colour); 
+
 }
 
 /* Nav bar */
@@ -125,8 +126,18 @@ header {
     box-sizing: border-box;
 }
 
+.portfolio-item-preview-image {
+    width: auto;
+    height: 500px;
+    background-color: white;
+    text-align: center;
+    
+}
+
 .portfolio-item img {
-    width: 100%;
+    height: 100%;
+    width: auto;
+    margin: 0 auto;
 }
 
 .portfolio-item h2, h3 {
@@ -176,7 +187,7 @@ header {
     text-decoration: none;
 
     /* Spacing */
-    margin: 10px 38%;
+    margin: 10px auto;
     padding: 10px;
 
     /* Colours */
@@ -185,6 +196,8 @@ header {
 
     /* Borders */
     border-radius: 10px;
+
+    width: 14rem;
 }
 
 .portfolio-item-moredetails:hover {
