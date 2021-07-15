@@ -124,28 +124,29 @@ header {
     width: 100%;
 }
 
-.portfolio-item h2 {
+.portfolio-item h2, h3 {
     /* Text */
     font-family: var(--header-font);
-    font-size: 150%;
 
     /* Colour */ 
     color: var(--content-header-colour);
 
     /* Positioning */
-    float: left;
     line-height: 40px;
+}
+
+.portfolio-item h2 {
+    /* Text */
+    font-size: 150%;
+
+    /* Positioning */
+    float: left;
 }
 
 .portfolio-item h3 {
     /* Text */
-    font-family: var(--header-font);
     font-size: 80%;
-
-    /* Colour */ 
-    color: var(--content-header-colour);
 
     /* Positioning */
     float: right;
-    line-height: 40px;
 }
