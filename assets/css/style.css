@@ -39,6 +39,17 @@
     text-align: center;
 }
 
+/* Global class to bottom align text */
+.bottom-align {
+    /* Sizing */
+    width: 100%;
+    
+    /* Postioning */
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
 /* Main body */
 body {
     /* Colours */
@@ -127,6 +138,8 @@ header {
     /* Spacing */
     padding: 20px;
     box-sizing: border-box;
+
+    position: relative;
 }
 
 .portfolio-item-preview-image {
@@ -184,6 +197,8 @@ header {
 
     /* Positioning */
     clear: both;
+
+    margin-top: 30px;
 }
 
 .portfolio-item-moredetails  {
@@ -200,7 +215,7 @@ header {
     text-decoration: none;
 
     /* Spacing */
-    margin: 10px auto;
+    margin: 15px auto;
     padding: 10px;
 
     /* Colours */
