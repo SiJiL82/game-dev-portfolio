@@ -28,6 +28,10 @@
     box-shadow: 0 5px 15px -6px var(--highlight-colour);
 }
 
+.center-align {
+    text-align: center;
+}
+
 /* Main body */
 
 body {
@@ -159,4 +163,31 @@ header {
 
     /* Positioning */
     clear: both;
+}
+
+.portfolio-item-moredetails  {
+    /* Positioning */
+    display: grid;
+
+    /* Text */
+    font-family: var(--header-font);
+    font-weight: bold;
+    font-size: 180%;
+    text-decoration: none;
+
+    /* Spacing */
+    margin: 10px 38%;
+    padding: 10px;
+
+    /* Colours */
+    background-color: var(--container-colour);
+    color: var(--text-colour);
+
+    /* Borders */
+    border-radius: 10px;
+}
+
+.portfolio-item-moredetails:hover {
+    /* Appearance */
+    text-decoration: underline;
 }
