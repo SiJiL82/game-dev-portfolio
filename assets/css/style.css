@@ -134,5 +134,18 @@ header {
 
     /* Positioning */
     float: left;
+    line-height: 40px;
 }
 
+.portfolio-item h3 {
+    /* Text */
+    font-family: var(--header-font);
+    font-size: 80%;
+
+    /* Colour */ 
+    color: var(--content-header-colour);
+
+    /* Positioning */
+    float: right;
+    line-height: 40px;
+}
