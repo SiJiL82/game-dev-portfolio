@@ -27,7 +27,19 @@
         </nav>
         <section>
             <div class="portfolio-item bottom-drop-shadow">
-                
+                <form method="POST" action="#" class="contact-form">
+                    <h2 class="portfolio-item-title">Send me a message!</h2>
+                    <label for="sender-name">Name:</label>
+                        <input type="text" id="sender-name" name="sender-name" class="contact-text-input" required>
+                    <label for="sender-email">Email:</label>
+                        <input type="email" id="sender-email" name="sender-email" class="contact-text-input" required>
+                    <label for="message">Message:</label>
+                        <textarea id="message" name="message" rows="10" columns="50" required>
+
+                        </textarea>
+                    <input type="submit" value="Send Message">
+                    <input type="reset" value="Clear Form">
+                </form>
             </div>
         </section>
     </div>
