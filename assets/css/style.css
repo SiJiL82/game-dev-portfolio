@@ -29,6 +29,12 @@ header {
     background-color: var(--container-colour);
     color: var(--text-colour);
 
+    /* Borders */
+    border-bottom: 1px solid var(--highlight-colour);
+    box-shadow: 0 10px 15px -6px var(--highlight-colour);
+}
+
+#title {
     /* Font */
     font-family: Voltaire, sans-serif;
     text-align: center;
@@ -36,10 +42,6 @@ header {
 
     /* Spacing */
     padding: 30px;
-
-    /* Borders */
-    border-bottom: 1px solid var(--highlight-colour);
-    box-shadow: 0 10px 15px -6px var(--highlight-colour);
 }
 
 /* Main content wrapper */
@@ -56,3 +58,4 @@ header {
     border-left: 1px solid var(--highlight-colour);
     border-right: 1px solid var(--highlight-colour);  
 }
+
