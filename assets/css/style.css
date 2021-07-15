@@ -6,8 +6,8 @@
     --container-colour: #0b468c;
     --text-colour: #b7c1de;
     --object-colour: #63345e;
-    /* --highlight-colour: #ac61b9; */
     --highlight-colour: black;
+    --content-header-colour: navy;
 }
 
 /* Clear spacing and border values for all objects */
@@ -120,3 +120,14 @@ header {
     width: 100%;
 }
 
+.portfolio-item h2 {
+    /* Text */
+    font-family: Voltaire, sans-serif;
+    font-size: 150%;
+
+    /* Colour */ 
+    color: var(--content-header-colour);
+
+    /* Positioning */
+    float: left;
+}
