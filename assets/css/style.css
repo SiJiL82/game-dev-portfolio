@@ -7,3 +7,9 @@
     --object-colour: #63345e;
     --highlight-colour: #ac61b9;
 }
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
