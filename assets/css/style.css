@@ -244,16 +244,53 @@ header {
 
 /* About page */
 #about-photo {
+    /* Sizing */
     width: 33%;
+
+    /* Positioning */
     float: left;
     margin: 0 auto;
 }
 
 #about-description {
+    /* Sizing */
     width: 66%;
+
+    /* Positioning */
     float: right;
 }
 
 #about-links {
+    /* Positioning */
     clear: both;
+
+    /* Spacing */
+    padding-top: 30px;
+}
+
+#about-links ul {
+    /* Text */
+    text-align: center;
+}
+
+#about-links li {
+    /* Appearance */
+    display: inline;
+    list-style-type: none;
+
+    /* Spacing */
+    margin: 0 10px 0 10px;
+}
+
+#about-links a {
+    /* Text */
+    font-size: 300%;
+
+    /* Colours */
+    color: var(--header-background-colour);
+}
+
+#about-links a:hover {
+    /* Borders */
+    border-bottom: 1px solid var(--highlight-colour);
 }
