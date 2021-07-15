@@ -2,11 +2,12 @@
 
 /* Colour variables */
 :root {
-    --background-colour: #092047;
+    --background-colour: white;
     --container-colour: #0b468c;
     --text-colour: #b7c1de;
     --object-colour: #63345e;
-    --highlight-colour: #ac61b9;
+    /* --highlight-colour: #ac61b9; */
+    --highlight-colour: black;
 }
 
 /* Clear spacing and border values for all objects */
@@ -27,18 +28,22 @@ body {
 header {
     /* Colours */
     background-color: var(--container-colour);
-    color: var(--text-colour);
+    
 
     /* Borders */
     border-bottom: 1px solid var(--highlight-colour);
-    box-shadow: 0 10px 15px -6px var(--highlight-colour);
+    box-shadow: 0 5px 15px 0px var(--highlight-colour);
 }
 
+
 #title {
-    /* Font */
+    /* Text */
     font-family: Voltaire, sans-serif;
     text-align: center;
     font-size: 500%;
+
+    /* Colours */
+    color: var(--text-colour);
 
     /* Spacing */
     padding: 30px;
@@ -56,6 +61,46 @@ header {
 
     /* Borders */
     border-left: 1px solid var(--highlight-colour);
-    border-right: 1px solid var(--highlight-colour);  
+    border-right: 1px solid var(--highlight-colour); 
+    
+    
 }
 
+/* Nav bar */
+#main-menu {
+    /* Appearance */
+    margin: 0 auto;
+    padding: 30px;
+
+    /* Text */
+    text-align: center;
+
+    /* Colours */
+    background-color: var(--container-colour);
+}
+
+#main-menu li {
+    /* Appearance */
+    display: inline;
+    list-style-type: none;
+
+    /* Spacing */
+    margin-right: 45px;
+} 
+
+#main-menu a {
+    /* Text */
+    font-family: Voltaire, sans-serif;
+    font-size: 200%;
+
+    /* Colours */
+    color: var(--text-colour);
+
+    /* Appearance */
+    text-decoration: none;
+}
+
+#main-menu a:hover, .menu-active{
+    /* Appearance */
+    border-bottom: 1px solid var(--text-colour);
+}
