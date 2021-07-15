@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans&family=Voltaire&display=swap');
 
+/* Colour variables */
 :root {
     --background-colour: #092047;
     --container-colour: #0b468c;
@@ -8,15 +9,20 @@
     --highlight-colour: #ac61b9;
 }
 
+/* Clear spacing and border values for all objects */
 * {
     margin: 0;
     padding: 0;
     border: none;
 }
 
+/* Main body */
+
 body {
     background-color: var(--background-colour);
 }
+
+/* Header */
 
 header {
     /* Colours */
@@ -34,4 +40,19 @@ header {
     /* Borders */
     border-bottom: 1px solid var(--highlight-colour);
     box-shadow: 0 10px 15px -6px var(--highlight-colour);
+}
+
+/* Main content wrapper */
+
+#content {
+    /* Dimensions */
+    width: 60em;
+    height: 100%;
+
+    /* Spacing */
+    margin: 0 auto;
+
+    /* Borders */
+    border-left: 1px solid var(--highlight-colour);
+    border-right: 1px solid var(--highlight-colour);  
 }
