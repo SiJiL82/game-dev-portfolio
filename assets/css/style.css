@@ -17,6 +17,12 @@
     border: none;
 }
 
+.bottom-drop-shadow {
+    /* Borders */
+    border-bottom: 1px solid var(--highlight-colour);
+    box-shadow: 0 5px 15px -6px var(--highlight-colour);
+}
+
 /* Main body */
 
 body {
@@ -28,11 +34,6 @@ body {
 header {
     /* Colours */
     background-color: var(--container-colour);
-    
-
-    /* Borders */
-    border-bottom: 1px solid var(--highlight-colour);
-    box-shadow: 0 5px 15px 0px var(--highlight-colour);
 }
 
 
@@ -62,8 +63,6 @@ header {
     /* Borders */
     border-left: 1px solid var(--highlight-colour);
     border-right: 1px solid var(--highlight-colour); 
-    
-    
 }
 
 /* Nav bar */
