@@ -216,7 +216,7 @@ header {
     margin-top: 30px;
 }
 
-.portfolio-item-moredetails  {
+.button  {
     /* Sizing */
     width: 14rem;
 
@@ -226,7 +226,7 @@ header {
     /* Text */
     font-family: var(--header-font);
     font-weight: bold;
-    font-size: 180%;
+    font-size: 1.5rem;
     text-decoration: none;
 
     /* Spacing */
@@ -241,10 +241,12 @@ header {
     border-radius: 10px;
 }
 
-.portfolio-item-moredetails:hover {
+
+.button:hover {
     /* Appearance */
     text-decoration: underline;
     text-decoration-color: var(--highlight-colour);
+    text-underline-offset: 5px;
 }
 
 /* About page */
@@ -365,11 +367,22 @@ header {
 }
 
 .contact-form-input:focus {
+    /* Borders */
     border-color: var(--highlight-colour);
     outline: none;
 }
 
+.contact-form-buttons {
+    text-align: center;
 
+    /* Spacing */
+    margin: 15px auto;
+    padding: 10px;
+}
+
+.contact-form-buttons input{
+    display: inline;
+}
 
   
   
