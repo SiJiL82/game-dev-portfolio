@@ -41,6 +41,20 @@ This project is a static HTML site that is used to showcase the projects I have 
     - The Title property on each link is set to provide a tooltip to the user, indication where the link will take them.
     - As all links are to external sites, the target for each link is set to open a new browser tab.  
     ![About Me Links](readme-assets/images/about-me-links-hover.png)
+
+### Contact Page
+- __Contact Form__
+    - Presents the user with a method to contact me with a short message, supplying their name and email address to allow for a response to be sent back.  
+    - Submit and form reset buttons are present to allow the user to send their message, or clear the form out if they wish to re-start or cancel sending the message.
+    ![Contact Form](readme-assets/images/contact-form.png)
+    - A distinctive contrasting colour is used to highlight which section of the form is active.
+    - Clicking the label next to the input element sets the cursor focus to that input.
+    - All fields are required and the form will not submit if any are missed.  
+    ![Contact Form Highlighting](readme-assets/images/contact-form-highlight.png)
+    - The submit and form reset buttons feature the same mouse over highlighting to give the user visual feedback that the button can be clicked.  
+    ![Contact Form Buttons](readme-assets/images/contact-form-button-highlight.png)
+
+
   
 
 Colour palette: https://coolors.co/3d5a80-98c1d9-e0fbfc-ee6c4d-293241
