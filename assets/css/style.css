@@ -338,6 +338,11 @@ header {
         font-size: 1.5rem;
     }
 
+    /* Portfolio */
+    .portfolio-item-title {
+        font-size: 1.3rem;
+    }
+
     /* About page */
     #about-photo {
         float:unset;
@@ -347,4 +352,6 @@ header {
         float: unset;
         width: 100%;
     }
+
+    
 }
