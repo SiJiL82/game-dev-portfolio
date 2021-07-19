@@ -277,3 +277,14 @@ header {
 .portfolio-item-detailed {
     height: 100%;
 }
+
+.portfolio-item-screenshot-gallery {
+    clear: both;
+    line-height: 0;
+    column-count: 3;
+    column-gap: 5px;
+}
+
+.portfolio-item-screenshot-gallery img {
+    padding-top: 5px;
+}
