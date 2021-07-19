@@ -323,4 +323,12 @@ header {
     #nav-stick-to-top {
         top: 0;
     }
+
+    #main-menu {
+        padding: 10px;
+    }
+
+    #main-menu a {
+        font-size: 1.5rem;
+    }
 }
