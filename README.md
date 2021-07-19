@@ -5,6 +5,8 @@ This project is a static HTML site that is used to showcase the projects I have 
 [//]: # (Insert responsive picture here http://ami.responsivedesign.is/#)
 
 ## Table of Contents
+* [Design](#design)
+    * [User Stories](#user-stories)
 * [Features](#features)
     * [All Pages](#all-pages)
     * [Home Page](#home-page)
@@ -16,6 +18,21 @@ This project is a static HTML site that is used to showcase the projects I have 
     * [Validator Testing](#validator-testing)
 * [Deployment](#deployment)
 * [Credits](#credits)
+
+## Design
+### User Stories
+- __As an end user of the site, I want to:__
+    - Be quickly presented with a clear understanding of what the website is about.
+    - Be able to navigate the site with an intuitive layout, and not have to guess what to do to get where I want to go.
+    - See media for the games being presented that is displayed at an easy to see size.
+    - Have a clear description of what each item in the portfolio is.
+    - Be able to play the games being showcased.
+- __As someone using the site as a portfolio, I want to:__
+    - Be able to add new items to the portfolio easily, with each one styled consistently.
+    - Change the site's colour palette easily.
+    - Allow site users to contact me to discuss the projects on my site.
+    - Give users links to other sites etc. that can give them more information about me.
+
 
 ## Features
 
