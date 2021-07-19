@@ -66,7 +66,7 @@ header {
 #title {
     font-family: var(--header-font);
     text-align: center;
-    font-size: 500%;
+    font-size: 5rem;
     color: rgba(var(--header-text-colour), 1);
     padding: 30px;
 }
@@ -103,7 +103,7 @@ header {
 
 #main-menu a {
     font-family: var(--header-font);
-    font-size: 200%;
+    font-size: 2rem;
     text-decoration: none;
     color: rgba(var(--header-text-colour), 1);
 }
@@ -144,12 +144,12 @@ header {
 }
 
 .portfolio-item-title {
-    font-size: 150%;
+    font-size: 1.5rem;
     float: left;
 }
 
 .portfolio-item-date {
-    font-size: 80%;
+    font-size: 0.8rem;
     float: right;
 }
 
@@ -209,7 +209,7 @@ header {
 }
 
 #about-links a {
-    font-size: 300%;
+    font-size: 3rem;
     color: rgba(var(--header-background-colour), 1);
 }
 
@@ -221,7 +221,7 @@ header {
 .contact-form {
     clear: both;
     font-family: var(--content-font);
-    font-size: 120%;
+    font-size: 1.2rem;
 }
 
 .contact-form-grid {
@@ -247,7 +247,7 @@ header {
 
 .contact-form-input{
     font-family: var(--content-font);
-    font-size: 120%;
+    font-size: 1.2rem;
     background-color: rgba(var(--content-background-colour), 1);
     color: rgba(var(--content-text-colour), 1);
     padding: 10px 0px 10px 15px;
@@ -274,3 +274,6 @@ header {
 }
 
 /* Portfolio Item Pages */
+.portfolio-item-detailed {
+    height: 100%;
+}
