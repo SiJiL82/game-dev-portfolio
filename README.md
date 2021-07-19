@@ -15,10 +15,18 @@ This project is a static HTML site that is used to showcase the projects I have 
 - __Navigation Bar__
     - The responsive navigation bar is present on all pages, allowing consistent navigation between the main portfolio page, the "about me" page, and the contact form page.
     - This allows the user to access the main pages of the site without having to use browser navigation buttons.
-    - A high contrast colour scheme and font size is used to allow easy readability for the user.
+    - A high contrast colour scheme and font size is used to allow easy readability for the user.  
     ![Navigation Bar Colour and Contrast](readme-assets/images/nav-bar-contrast-check.png)
 
     ![Navigation Bar](readme-assets/images/nav-bar.png)
+
+- __Portfolio Items__
+    - This section presents the different portfolio items to the user.
+    - A screenshot of the start screen is shown, followed by the title of the game, the date the game was published and a brief description of the game.
+    ![Portfolio Item Overview](readme-assets/images/portfolio-item-overview.png)
+    - A "More details" button under each item's description takes the user to the dedicated page for that game.
+    - This button features a high contrast underline on the text when the user hovers over it, providing visual feedback that it can be clicked on.  
+    ![More Details Button Hover](readme-assets/images/more-details-button-hover.png)
 
 Colour palette: https://coolors.co/3d5a80-98c1d9-e0fbfc-ee6c4d-293241
 
