@@ -288,3 +288,10 @@ header {
 .portfolio-item-screenshot-gallery img {
     padding-top: 5px;
 }
+
+/* Responsive design scaling */
+
+/* For medium screen sizes from 950px wide and under */
+@media screen and (max-width: 950px) {
+    
+}
