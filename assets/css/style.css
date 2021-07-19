@@ -291,7 +291,13 @@ header {
 
 /* Responsive design scaling */
 
-/* For medium screen sizes from 950px wide and under */
-@media screen and (max-width: 950px) {
-    
+/* Medium screen sizes under 960px wide */
+@media screen and (max-width: 960px) {
+    .content {
+        width: 100%;
+    }
+
+    .portfolio-item {
+        padding-right: 40px;
+    }
 }
