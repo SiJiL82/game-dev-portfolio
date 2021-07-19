@@ -294,16 +294,18 @@ header {
 
 /* Medium screen sizes under 960px wide */
 @media screen and (max-width: 960px) {
+    /* Header */
     #title {
         font-size: 3rem;
     }
 
-    #nav-stick-to-top {
-        top: 119px;
-    }
-
     .content {
         width: 100%;
+    }
+
+    /* Nav bar */
+    #nav-stick-to-top {
+        top: 119px;
     }
 
     .portfolio-item {
@@ -314,6 +316,7 @@ header {
 
 /* Medium screen sizes under 730px wide */
 @media screen and (max-width: 730px) {
+    /* Header */
     #title {
         font-size: 2rem;
     }
@@ -321,7 +324,8 @@ header {
     #header-stick-to-top {
         position: unset;
     }
-    
+
+    /* Nav bar */    
     #nav-stick-to-top {
         top: 0;
     }
@@ -334,6 +338,7 @@ header {
         font-size: 1.5rem;
     }
 
+    /* About page */
     #about-photo {
         float:unset;
     }
