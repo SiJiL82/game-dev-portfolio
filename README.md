@@ -14,11 +14,14 @@ This project is a static HTML site that is used to showcase the projects I have 
 
 - __Navigation Bar__
     - The responsive navigation bar is present on all pages, allowing consistent navigation between the main portfolio page, the "about me" page, and the contact form page.
-    - This allows the user to access the main pages of the site without having to use browser navigation buttons.
+    - This allows the user to access the main pages of the site without having to use browser navigation buttons.  
+    ![Navigation Bar](readme-assets/images/nav-bar.png)
+    - The link to the currently active page is highlighted to the user with the link underlined, and when the user moves over the non-active links, they are highlighted in the same way, giving visual feedback that the link can be clicked and will become the new active link.  
+    ![Navigation Bar Link Hover](readme-assets/images/nav-bar-hover.png)
     - A high contrast colour scheme and font size is used to allow easy readability for the user.  
     ![Navigation Bar Colour and Contrast](readme-assets/images/nav-bar-contrast-check.png)
 
-    ![Navigation Bar](readme-assets/images/nav-bar.png)
+    
 
 - __Portfolio Items__
     - This section presents the different portfolio items to the user.
