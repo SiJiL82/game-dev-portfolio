@@ -7,6 +7,7 @@ This project is a static HTML site that is used to showcase the projects I have 
 ## Table of Contents
 * [Design](#design)
     * [User Stories](#user-stories)
+    * [Site Design Mockups](#site-mockups)
 * [Features](#features)
     * [All Pages](#all-pages)
     * [Home Page](#home-page)
@@ -33,6 +34,15 @@ This project is a static HTML site that is used to showcase the projects I have 
     - Allow site users to contact me to discuss the projects on my site.
     - Give users links to other sites etc. that can give them more information about me.
 
+### Site Mockups
+-  __Index Page__
+    - ![Index Page Mockup](readme-assets/images/index-wireframe.png)
+- __Portfolio Item Specific Page__
+    - ![Portfolio Item Page Mockup](readme-assets/images/portfolio-item-wireframe.png)
+- __About Page__
+    - ![About Page Mockup](readme-assets/images/about-wireframe.png)
+- __Contact Page__
+    - ![Contact Page Mockup](readme-assets/images/contact-wireframe.png)
 
 ## Features
 
