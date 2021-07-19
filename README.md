@@ -4,6 +4,19 @@ This project is a static HTML site that is used to showcase the projects I have 
 
 [comment]: Insert responsive picture here http://ami.responsivedesign.is/#
 
+## Table of Contents
+* [Features](#features)
+    * [All Pages](#all-pages)
+    * [Home Page](#home-page)
+    * [About Page](#about-page)
+    * [Contact Page](#contact-page)
+    * [Game Specific Pages](#game-specific-pages)
+* [Testing](#testing)
+    * [Functionality and Feature Testing](#functionality-and-feature-testing)
+    * [Validator Testing](#validator-testing)
+* [Deployment](#deployment)
+* [Credits](#credits)
+
 ## Features
 
 ### All Pages
