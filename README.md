@@ -2,7 +2,7 @@
 
 This project is a static HTML site that is used to showcase the projects I have been working on while learning C# and Unity game development.
 
-[comment]: Insert responsive picture here http://ami.responsivedesign.is/#
+[//]: # (Insert responsive picture here http://ami.responsivedesign.is/#)
 
 ## Table of Contents
 * [Features](#features)
@@ -72,18 +72,18 @@ This project is a static HTML site that is used to showcase the projects I have 
     ![Contact Form Buttons](readme-assets/images/contact-form-button-highlight.png)
 
 ### Game Specific Pages
-[comment]: Insert game specific page info here once complete
+[//]: # (Insert game specific page info here once complete)
 
 ## Testing
 
 ### Functionality and Feature Testing
-[comment]: Insert testing screenshots once all pages in place.
+[//]: # (Insert testing screenshots once all pages in place.)
 
 ### Validator Testing
-[comment]: Insert screenshots of HTML (https://validator.w3.org) and CSS (https://jigsaw.w3.org/css-validator/) validators when testing complete.
+[//]: # (Insert screenshots of HTML https://validator.w3.org and CSS https://jigsaw.w3.org/css-validator/ validators when testing complete.)
 
 ## Deployment
-[comment]: Description of how to clone the GitHub repo, edit the HTML content and host the page. CSS variables for quick colour palette editing shown here.
+[//]: # (Description of how to clone the GitHub repo, edit the HTML content and host the page. CSS variables for quick colour palette editing shown here.)
 
 ## Credits
 Colour palette: https://coolors.co/3d5a80-98c1d9-e0fbfc-ee6c4d-293241
