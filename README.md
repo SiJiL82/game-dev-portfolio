@@ -99,7 +99,13 @@ This project is a static HTML site that is used to showcase the projects I have 
     ![Contact Form Buttons](readme-assets/images/contact-form-button-highlight.png)
 
 ### Game Specific Pages
-[//]: # (Insert game specific page info here once complete)
+- __Gameplay Video__
+    - A video for each game is presented to the user as the first content on the page, allowing them to preview what the game is like.
+    - The video has controls for the user to initiate and manage playback and volume. The video does not autoplay.
+    - Volume is set to default to 50%, allowing the user to set it to their own preferred levels.
+    - The same title and published date from the index page are visible below the video, maintaining consistency from the main site page.
+    ![Portfolio Specific Video Preview](readme-assets/images/portfolio-specific-video.png)
+
 
 ## Testing
 
@@ -123,3 +129,4 @@ Resources:
 CSS Variables: https://www.w3schools.com/css/css3_variables.asp
 https://stackoverflow.com/questions/18548465/prevent-scroll-bar-from-adding-up-to-the-width-of-page-on-chrome
 https://www.sitepoint.com/css-grid-web-form-layout/
+https://stackoverflow.com/questions/7582385/is-there-a-way-to-set-the-default-html5-video-volume
