@@ -6,11 +6,11 @@ This project is a static HTML site that is used to showcase the projects I have 
 
 ## Features
 
-- __Title Bar__
-    - Main title for the site, presenting a quick, single statement to the user describing what they can expect to see on the site.
+### All Pages
 
+- __Title Bar__
+    - Main title for the site, presenting a quick, single statement to the user describing what they can expect to see on the site.  
     ![Title Bar](readme-assets/images/title-bar.png)
-    
 
 - __Navigation Bar__
     - The responsive navigation bar is present on all pages, allowing consistent navigation between the main portfolio page, the "about me" page, and the contact form page.
@@ -21,7 +21,7 @@ This project is a static HTML site that is used to showcase the projects I have 
     - A high contrast colour scheme and font size is used to allow easy readability for the user.  
     ![Navigation Bar Colour and Contrast](readme-assets/images/nav-bar-contrast-check.png)
 
-    
+### Home Page    
 
 - __Portfolio Items__
     - This section presents the different portfolio items to the user.
@@ -30,6 +30,18 @@ This project is a static HTML site that is used to showcase the projects I have 
     - A "More details" button under each item's description takes the user to the dedicated page for that game.
     - This button features a high contrast underline on the text when the user hovers over it, providing visual feedback that it can be clicked on.  
     ![More Details Button Hover](readme-assets/images/more-details-button-hover.png)
+
+### About Page
+- __About Me__
+    - A stylised picture of me created using https://www.bitmoji.com/ is displayed.  
+    - A few short paragraphs of text describing my past career and progress into game development is placed next to the image, to give the user a quick insight into what I've done to date.  
+    ![About Me Description](readme-assets/images/about-me.png)
+    - Underneath the description, links to files and social media are shown, such as a link to my CV and GitHub profile.
+    - These links have the same hover highlighting as the navigation bar and buttons used elsewhere in the site, providing consistent feedback on their functionality to the user.
+    - The Title property on each link is set to provide a tooltip to the user, indication where the link will take them.
+    - As all links are to external sites, the target for each link is set to open a new browser tab.  
+    ![About Me Links](readme-assets/images/about-me-links-hover.png)
+  
 
 Colour palette: https://coolors.co/3d5a80-98c1d9-e0fbfc-ee6c4d-293241
 
