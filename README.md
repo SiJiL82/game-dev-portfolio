@@ -12,6 +12,13 @@ This project is a static HTML site that is used to showcase the projects I have 
     ![Title Bar](readme-assets/images/title-bar.png)
     
 
+- __Navigation Bar__
+    - The responsive navigation bar is present on all pages, allowing consistent navigation between the main portfolio page, the "about me" page, and the contact form page.
+    - This allows the user to access the main pages of the site without having to use browser navigation buttons.
+    - A high contrast colour scheme and font size is used to allow easy readability for the user.
+    ![Navigation Bar Colour and Contrast](readme-assets/images/nav-bar-contrast-check.png)
+
+    ![Navigation Bar](readme-assets/images/nav-bar.png)
 
 Colour palette: https://coolors.co/3d5a80-98c1d9-e0fbfc-ee6c4d-293241
 
