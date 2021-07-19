@@ -21,11 +21,15 @@ This project is a static HTML site that is used to showcase the projects I have 
     - A high contrast colour scheme and font size is used to allow easy readability for the user.  
     ![Navigation Bar Colour and Contrast](readme-assets/images/nav-bar-contrast-check.png)
 
+- __Always Visible Navigation__
+    - Both the title bar and navigation bar stick to the top of the page, with other content hiding behind it when the page is scrolled, meaning the page navigation is always visible to the user.  
+    ![Title and Navigation Always Visible](readme-assets/images/sticky-navigation.png)
+
 ### Home Page    
 
 - __Portfolio Items__
     - This section presents the different portfolio items to the user.
-    - A screenshot of the start screen is shown, followed by the title of the game, the date the game was published and a brief description of the game.
+    - A screenshot of the start screen is shown, followed by the title of the game, the date the game was published and a brief description of the game.  
     ![Portfolio Item Overview](readme-assets/images/portfolio-item-overview.png)
     - A "More details" button under each item's description takes the user to the dedicated page for that game.
     - This button features a high contrast underline on the text when the user hovers over it, providing visual feedback that it can be clicked on.  
@@ -45,7 +49,7 @@ This project is a static HTML site that is used to showcase the projects I have 
 ### Contact Page
 - __Contact Form__
     - Presents the user with a method to contact me with a short message, supplying their name and email address to allow for a response to be sent back.  
-    - Submit and form reset buttons are present to allow the user to send their message, or clear the form out if they wish to re-start or cancel sending the message.
+    - Submit and form reset buttons are present to allow the user to send their message, or clear the form out if they wish to re-start or cancel sending the message.  
     ![Contact Form](readme-assets/images/contact-form.png)
     - A distinctive contrasting colour is used to highlight which section of the form is active.
     - Clicking the label next to the input element sets the cursor focus to that input.
