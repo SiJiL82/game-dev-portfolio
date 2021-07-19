@@ -4,7 +4,13 @@ This project is a static HTML site that is used to showcase the projects I have 
 
 [comment]: Insert responsive picture here http://ami.responsivedesign.is/#
 
+## Features
 
+- __Title Bar__
+    - Main title for the site, presenting a quick, single statement to the user describing what they can expect to see on the site.
+
+    ![Title Bar](readme-assets/images/title-bar.png)
+    
 
 
 Colour palette: https://coolors.co/3d5a80-98c1d9-e0fbfc-ee6c4d-293241
