@@ -7,7 +7,7 @@ This project is a static HTML site that is used to showcase the projects I have 
 ## Table of Contents
 * [Design](#design)
     * [User Stories](#user-stories)
-    * [Site Design Mockups](#site-mockups)
+    * [Site Mockups](#site-mockups)
 * [Features](#features)
     * [All Pages](#all-pages)
     * [Home Page](#home-page)
