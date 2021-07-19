@@ -100,11 +100,17 @@ This project is a static HTML site that is used to showcase the projects I have 
 
 ### Game Specific Pages
 - __Gameplay Video__
-    - A video for each game is presented to the user as the first content on the page, allowing them to preview what the game is like.
-    - The video has controls for the user to initiate and manage playback and volume. The video does not autoplay.
-    - Volume is set to default to 50%, allowing the user to set it to their own preferred levels.
-    - The same title and published date from the index page are visible below the video, maintaining consistency from the main site page.
-    ![Portfolio Specific Video Preview](readme-assets/images/portfolio-specific-video.png)
+    - A video for each game is presented to the user as the first content on the page, allowing them to preview what the game is like.  
+    - The video has controls for the user to initiate and manage playback and volume. The video does not autoplay.  
+    - Volume is set to default to 50%, allowing the user to set it to their own preferred levels.  
+    - The same title and published date from the index page are visible below the video, maintaining consistency from the main site page.  
+    ![Portfolio Item Video Preview](readme-assets/images/portfolio-specific-video.png)
+    - The summary from the Index preview page, followed by some more descriptive text is shown to present the game's information to the user.
+    - A "Play!" button is presented under the description, taking the user to an external page where they can play the game in a browser or install it to play on their machine.  
+    - The same site wide button highlighting is used to identify to the user that the button can be clicked.  
+    ![Portfolio Item Description and Play Button](readme-assets/images/portfolio-specific-description-and-button.png)
+
+
 
 
 ## Testing
