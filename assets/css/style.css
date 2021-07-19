@@ -310,3 +310,17 @@ header {
     }
 }
 
+/* Medium screen sizes under 730px wide */
+@media screen and (max-width: 730px) {
+    #title {
+        font-size: 2rem;
+    }
+
+    #header-stick-to-top {
+        position: unset;
+    }
+    
+    #nav-stick-to-top {
+        top: 0;
+    }
+}
