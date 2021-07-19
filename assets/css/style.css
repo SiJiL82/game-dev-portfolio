@@ -126,6 +126,8 @@ header {
     height: 500px;
     background-color: rgba(var(--content-background-colour), 1);
     text-align: center;
+    margin: 0 auto;
+    display: block;
 }
 
 .portfolio-item img {
@@ -270,3 +272,5 @@ header {
 .contact-form-buttons input{
     display: inline;
 }
+
+/* Portfolio Item Pages */
