@@ -343,6 +343,12 @@ header {
         font-size: 1.3rem;
     }
 
+    .button  {
+        width: 9rem;
+        font-weight:initial;
+        font-size: 1.3rem;
+    }
+
     /* About page */
     #about-photo {
         float:unset;
