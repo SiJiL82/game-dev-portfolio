@@ -109,7 +109,9 @@ This project is a static HTML site that is used to showcase the projects I have 
     - A "Play!" button is presented under the description, taking the user to an external page where they can play the game in a browser or install it to play on their machine.  
     - The same site wide button highlighting is used to identify to the user that the button can be clicked.  
     ![Portfolio Item Description and Play Button](readme-assets/images/portfolio-specific-description-and-button.png)
-
+    - At the bottom of the page is a screenshot gallery, showcasing thumbnails of various images from the game.
+    - The thumbnails can be clicked to open the full size image in a new browser tab / window.  
+    ![Portfolio Item Screenshot Gallery](readme-assets/images/portfolio-specific-screenshots.png)
 
 
 
