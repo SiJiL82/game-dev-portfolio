@@ -2,7 +2,7 @@
 
 This project is a static HTML site that is used to showcase the projects I have been working on while learning C# and Unity game development.
 
-[//]: # (Insert responsive picture here http://ami.responsivedesign.is/#)
+![Game Dev Portfolio Responsive Preview](readme-assets/images/gamedev-portfolio-responsive-preview.png)
 
 ## Table of Contents
 * [Design](#design)
