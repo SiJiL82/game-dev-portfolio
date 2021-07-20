@@ -66,9 +66,9 @@ header {
 #title {
     font-family: var(--header-font);
     text-align: center;
-    font-size: 5rem;
+    font-size: 4.5rem;
     color: rgba(var(--header-text-colour), 1);
-    padding: 30px;
+    padding: 25px;
 }
 
 /* Main content wrapper */
@@ -84,7 +84,7 @@ header {
 /* Nav bar */
 #nav-stick-to-top {
     position: sticky;
-    top: 160px;
+    top: 140px;
     z-index: 998;
 }
 
