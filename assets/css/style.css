@@ -392,3 +392,15 @@ header {
     }
 }
 
+/* Screen heights under 700px  */
+@media screen and (max-height: 700px) {
+    /* Header */
+    #header-stick-to-top {
+        position: unset;
+    }
+
+    /* Nav bar */    
+    #nav-stick-to-top {
+        position: unset;
+    }
+}
