@@ -161,6 +161,17 @@ header {
     margin-bottom: 30px;
 }
 
+.portfolio-item-summary a {
+    color: rgba(var(--highlight-colour), 1);
+    text-decoration: none;
+}
+
+.portfolio-item-summary a:hover {
+    color: rgba(var(--highlight-colour), 1);
+    text-decoration: underline;
+}
+
+
 .button  {
     width: 14rem;
     display: grid;
