@@ -192,10 +192,17 @@ This project is a static HTML site that is used to showcase the projects I have 
     ![Chrome - Android - Portfolio](readme-assets/images/browser-test-chrome-android-portfolio.jpg)  
 ### Validator Testing
 - __The site has been tested with the following validators:__
-    - HTML: https://validator.w3.org/nu/?doc=https%3A%2F%2Fsijil82.github.io%2Fgame-dev-portfolio%2F
+    - #### HTML:
+    - https://validator.w3.org/nu/?doc=https%3A%2F%2Fsijil82.github.io%2Fgame-dev-portfolio%2F
     - No issues found:  
     ![HTML Validator](readme-assets/images/testing-html-validation.png)  
-[//]: # (Insert screenshots of HTML https://validator.w3.org and CSS https://jigsaw.w3.org/css-validator/ validators when testing complete.)
+    - #### CSS
+    - https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsijil82.github.io%2Fgame-dev-portfolio%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en  
+    - A number of warnings and errors are returned, however these are all because the validator tool is not up to date with the current CSS specifications.
+    ![CSS Validator Errors](readme-assets/images/css-validation-errors.png)  
+    ![CSS Validator Warnings](readme-assets/images/css-validation-warnings.png)  
+    - The "Value Error : border-bottom Invalid RGB function ) ", "Invalid RGB function )" errors and "is an unknown vendor extension" warnings are due to the validator not supporting custom CSS properties, which have been a valid part of the CSS specification for a number of years, as per https://github.com/w3c/css-validator/pull/173  
+    - The "Property text-underline-offset doesn't exist" error is also because the validator has not been updated with the addition of this valid CSS property, as per https://developer.mozilla.org/en-US/docs/Web/CSS/text-underline-offset  
 
 ## Deployment
 [//]: # (Description of how to clone the GitHub repo, edit the HTML content and host the page. CSS variables for quick colour palette editing shown here.)
