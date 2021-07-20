@@ -129,9 +129,10 @@ This project is a static HTML site that is used to showcase the projects I have 
         - Links in the navigation bar are clearly defined as to their destination, and allow traversal between the key pages from each page.  
         - Links are correctly defined and take the user to the page specified.  
         ![Testing - Navbar Links - Home](readme-assets/images/testing-navbar-home.png)  
-        ![Testing - Navbar Links - Home](readme-assets/images/testing-navbar-about.png)  
-        ![Testing - Navbar Links - Home](readme-assets/images/testing-navbar-contact.png)  
-        - Buttons on items are labelled appropriately showing where they will take the user
+        ![Testing - Navbar Links - About](readme-assets/images/testing-navbar-about.png)  
+        ![Testing - Navbar Links - Contact](readme-assets/images/testing-navbar-contact.png)  
+        - Buttons on items are labelled appropriately showing where they will take the user  
+        ![Testing - Buttons - More Details](readme-assets/images/testing-button-moredetails.png)  
     - See media for the games being presented that is displayed at an easy to see size.
     - Have a clear description of what each item in the portfolio is.
     - Be able to play the games being showcased.
