@@ -205,7 +205,14 @@ This project is a static HTML site that is used to showcase the projects I have 
     - The "Property text-underline-offset doesn't exist" error is also because the validator has not been updated with the addition of this valid CSS property, as per https://developer.mozilla.org/en-US/docs/Web/CSS/text-underline-offset  
 
 ## Deployment
-[//]: # (Description of how to clone the GitHub repo, edit the HTML content and host the page. CSS variables for quick colour palette editing shown here.)
+- __To view the deployed project:__
+    - The project is currently deployed to GitHub pages and can be viewed at https://sijil82.github.io/game-dev-portfolio/
+- __To deploy a copy of the project:__
+    - Open the GitHub repository at https://github.com/SiJiL82/game-dev-portfolio
+    - Click the "Code" button and clone the repository locally.
+    - Set the remote repository in your local clone with the command: git remote set-url origin http://github.com/YOU/YOUR_REPO
+    - Adjust the page content to display your portfolio items as appropriate, and push the changes to your repository.
+    - In the GitHub repository, view the repository settings, and under the "Pages" section, set the Source to the main branch of the repository and click Save. GitHub will build and publish the site and provide a link to the public facing address.
 
 ## Credits
 Colour palette: https://coolors.co/3d5a80-98c1d9-e0fbfc-ee6c4d-293241
