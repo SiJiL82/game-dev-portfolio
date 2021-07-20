@@ -127,6 +127,7 @@ This project is a static HTML site that is used to showcase the projects I have 
         ![Testing - Site Purpose About Page](readme-assets/images/testing-site-purpose-about.png)
     - Be able to navigate the site with an intuitive layout, and not have to guess what to do to get where I want to go.
         - Links in the navigation bar are clearly defined as to their destination, and allow traversal between the key pages from each page.  
+        - Links are correctly defined and take the user to the page specified.  
         ![Testing - Navbar Links - Home](readme-assets/images/testing-navbar-home.png)  
         ![Testing - Navbar Links - Home](readme-assets/images/testing-navbar-about.png)  
         ![Testing - Navbar Links - Home](readme-assets/images/testing-navbar-contact.png)  
