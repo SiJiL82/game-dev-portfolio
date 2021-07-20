@@ -145,6 +145,8 @@ This project is a static HTML site that is used to showcase the projects I have 
         - Each portfolio item has a quick summary on the main index page, and a detailed description on its dedicated page.  
         ![Testing - Project Description](readme-assets/images/testing-project-description.png)
     - Be able to play the games being showcased.
+        - Each game has a clear "Play" button on its dedicated page, taking the user to an external page where the game can be played.
+        ![Testing - Play Game Button](readme-assets/images/testing-play-button.png)
 - __As someone using the site as a portfolio, I want to:__
     - Be able to add new items to the portfolio easily, with each one styled consistently.
     - Change the site's colour palette easily.
