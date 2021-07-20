@@ -230,7 +230,6 @@ header {
 
 .contact-form-grid {
     display: grid;
-    grid-template-columns: 1% auto-fit;
     grid-gap: 0.3em 0.1em;
     grid-auto-flow: dense;
 }
