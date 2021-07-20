@@ -137,7 +137,7 @@ header {
     display: block;
 }
 
-.portfolio-item h2, h3 {
+.portfolio-item h2, h3, h4{
     font-family: var(--header-font);
     color: rgba(var(--content-header-text-colour), 1);
     line-height: 40px;
@@ -288,6 +288,7 @@ header {
 .portfolio-item-screenshot-gallery img {
     padding-top: 5px;
     width: 100%;
+    /* max-height: 175px; */
 }
 
 /* Responsive design scaling */
