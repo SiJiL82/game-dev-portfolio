@@ -118,6 +118,24 @@ This project is a static HTML site that is used to showcase the projects I have 
 ## Testing
 
 ### Functionality and Feature Testing
+### User Stories
+- __As an end user of the site, I want to:__
+    - Be quickly presented with a clear understanding of what the website is about.
+        - The page title shows the user a quick, clear high level description of the page content.
+        ![Testing - Site Purpose](readme-assets/images/testing-site-purpose.png)
+        - The About page provides the user with more information on this topic, and the link to it is one of the first things the user will see.
+        ![Testing - Site Purpose](readme-assets/images/testing-site-purpose-about.png)
+    - Be able to navigate the site with an intuitive layout, and not have to guess what to do to get where I want to go.
+        - Links in the navigation bar are clearly defined as to their destination, and allow traversal between the key pages from each page.
+        - Buttons on items are labelled appropriately showing where they will take the user
+    - See media for the games being presented that is displayed at an easy to see size.
+    - Have a clear description of what each item in the portfolio is.
+    - Be able to play the games being showcased.
+- __As someone using the site as a portfolio, I want to:__
+    - Be able to add new items to the portfolio easily, with each one styled consistently.
+    - Change the site's colour palette easily.
+    - Allow site users to contact me to discuss the projects on my site.
+    - Give users links to other sites etc. that can give them more information about me.
 [//]: # (Insert testing screenshots once all pages in place.)
 
 ### Validator Testing
@@ -138,3 +156,4 @@ CSS Variables: https://www.w3schools.com/css/css3_variables.asp
 https://stackoverflow.com/questions/18548465/prevent-scroll-bar-from-adding-up-to-the-width-of-page-on-chrome
 https://www.sitepoint.com/css-grid-web-form-layout/
 https://stackoverflow.com/questions/7582385/is-there-a-way-to-set-the-default-html5-video-volume
+https://fancyapps.com/docs/ui/quick-start
