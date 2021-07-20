@@ -167,10 +167,25 @@ This project is a static HTML site that is used to showcase the projects I have 
 #### Browser Testing
 - __The site and all functionality has been tested in the following browsers:__
     - Firefox on Windows Desktop:  
-    ![Firefox - Home](readme-assets/images/browser-test-firefox-home.png) 
-    ![Firefox - About](readme-assets/images/browser-test-firefox-about.png) 
-    ![Firefox - Contact](readme-assets/images/browser-test-firefox-contact.png) 
-    ![Firefox - Portfolio](readme-assets/images/browser-test-firefox-portfolio.png) 
+    ![Firefox - Home](readme-assets/images/browser-test-firefox-home.png)  
+    ![Firefox - About](readme-assets/images/browser-test-firefox-about.png)   
+    ![Firefox - Contact](readme-assets/images/browser-test-firefox-contact.png)  
+    ![Firefox - Portfolio](readme-assets/images/browser-test-firefox-portfolio.png)  
+    - Chrome on Windows Desktop:  
+    ![Chrome - Home](readme-assets/images/browser-test-chrome-home.png)  
+    ![Chrome - About](readme-assets/images/browser-test-chrome-about.png)   
+    ![Chrome - Contact](readme-assets/images/browser-test-chrome-contact.png)  
+    ![Chrome - Portfolio](readme-assets/images/browser-test-chrome-portfolio.png)  
+    - Firefox on Android:  
+    ![Firefox - Android - Home](readme-assets/images/browser-test-firefox-android-home.jpg?s=450)  
+    ![Firefox - Android - About](readme-assets/images/browser-test-firefox-android-about.jpg)  
+    ![Firefox - Android - Contact](readme-assets/images/browser-test-firefox-android-contact.jpg)  
+    ![Firefox - Android - Portfolio](readme-assets/images/browser-test-firefox-android-portfolio.jpg)  
+    - Chrome on Android:  
+    ![Chrome - Android - Home](readme-assets/images/browser-test-chrome-android-home.jpg)  
+    ![Chrome - Android - About](readme-assets/images/browser-test-chrome-android-about.jpg)  
+    ![Chrome - Android - Contact](readme-assets/images/browser-test-chrome-android-contact.jpg)  
+    ![Chrome - Android - Portfolio](readme-assets/images/browser-test-chrome-android-portfolio.jpg)  
 ### Validator Testing
 [//]: # (Insert screenshots of HTML https://validator.w3.org and CSS https://jigsaw.w3.org/css-validator/ validators when testing complete.)
 
