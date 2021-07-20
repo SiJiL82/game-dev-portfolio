@@ -133,25 +133,35 @@ This project is a static HTML site that is used to showcase the projects I have 
         ![Testing - Navbar Links - Contact](readme-assets/images/testing-navbar-contact.png)  
         - Buttons on items are labelled appropriately showing where they will take the user  
         ![Testing - Buttons - More Details](readme-assets/images/testing-button-moredetails.png)  
-    - See media for the games being presented that is displayed at an easy to see size.
-        - Each project has a video as the first element that is set to display at an easily viewable size.
+    - See media for the games being presented that is displayed at an easy to see size.  
+        - Each project has a video as the first element that is set to display at an easily viewable size.  
         - Media controls exist for the videos allowing the user to control its playback.  
-        ![Testing - Media - Video](readme-assets/images/testing-media-video.png)
-        - A screenshot gallery is present at the bottom of each portfolio page.
-        ![Testing - Media - Screenshots](readme-assets/images/testing-media-screenshots.png)
-        - Clicking the gallery thumbnail enlarges the image to make it more easily viewable.
-        ![Testing - Media - Large Screenshot](readme-assets/images/testing-media-large-screenshot.png)
-    - Have a clear description of what each item in the portfolio is.
+        ![Testing - Media - Video](readme-assets/images/testing-media-video.png)  
+        - A screenshot gallery is present at the bottom of each portfolio page.  
+        ![Testing - Media - Screenshots](readme-assets/images/testing-media-screenshots.png)  
+        - Clicking the gallery thumbnail enlarges the image to make it more easily viewable.  
+        ![Testing - Media - Large Screenshot](readme-assets/images/testing-media-large-screenshot.png)  
+    - Have a clear description of what each item in the portfolio is.  
         - Each portfolio item has a quick summary on the main index page, and a detailed description on its dedicated page.  
-        ![Testing - Project Description](readme-assets/images/testing-project-description.png)
-    - Be able to play the games being showcased.
-        - Each game has a clear "Play" button on its dedicated page, taking the user to an external page where the game can be played.
+        ![Testing - Project Description](readme-assets/images/testing-project-description.png)  
+    - Be able to play the games being showcased.  
+        - Each game has a clear "Play" button on its dedicated page, taking the user to an external page where the game can be played.  
         ![Testing - Play Game Button](readme-assets/images/testing-play-button.png)
 - __As someone using the site as a portfolio, I want to:__
     - Be able to add new items to the portfolio easily, with each one styled consistently.
+        - A "game-page-template.html" page has been created with the basic structure of a project page included, allowing it to be quickly duplicated and content added.
     - Change the site's colour palette easily.
+        - The stylesheet for the site uses root variables to define the colours for items, with clearly named variables. Changing the root variable definition will change all elements using that colour.  
+        ![Testing - Variables](readme-assets/images/testing-variables.png)  
+        - Changing the header background colour variable, and the effect it has:
+        ![Testing - Variable Changed](readme-assets/images/testing-colour-variable-changed.png)  
+        ![Testing - Variable Changed Effect](readme-assets/images/testing-colour-variable-changed-effect.png)  
     - Allow site users to contact me to discuss the projects on my site.
+        - The contact page allows users to send me a plain text message.
+        - Note that this is currently inoperational during development, however the submit button has the correct definition and is just missing a target to send the data to.
     - Give users links to other sites etc. that can give them more information about me.
+        - The About page has a series of links to other sites that provide more information about me.
+        ![Testing - Additional Links](readme-assets/images/testing-additional-links.png) 
 [//]: # (Insert testing screenshots once all pages in place.)
 
 ### Validator Testing
