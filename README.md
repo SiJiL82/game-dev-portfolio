@@ -118,7 +118,7 @@ This project is a static HTML site that is used to showcase the projects I have 
 ## Testing
 
 ### Functionality and Feature Testing
-### User Stories
+#### User Stories
 - __As an end user of the site, I want to:__
     - Be quickly presented with a clear understanding of what the website is about.  
         - The page title shows the user a quick, clear high level description of the page content.  
@@ -134,6 +134,13 @@ This project is a static HTML site that is used to showcase the projects I have 
         - Buttons on items are labelled appropriately showing where they will take the user  
         ![Testing - Buttons - More Details](readme-assets/images/testing-button-moredetails.png)  
     - See media for the games being presented that is displayed at an easy to see size.
+        - Each project has a video as the first element that is set to display at an easily viewable size.
+        - Media controls exist for the videos allowing the user to control its playback.  
+        ![Testing - Media - Video](readme-assets/images/testing-media-video.png)
+        - A screenshot gallery is present at the bottom of each portfolio page.
+        ![Testing - Media - Screenshots](readme-assets/images/testing-media-screenshots.png)
+        - Clicking the gallery thumbnail enlarges the image to make it more easily viewable.
+        ![Testing - Media - Large Screenshot](readme-assets/images/testing-media-large-screenshot.png)
     - Have a clear description of what each item in the portfolio is.
     - Be able to play the games being showcased.
 - __As someone using the site as a portfolio, I want to:__
