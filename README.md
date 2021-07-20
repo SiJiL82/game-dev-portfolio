@@ -51,7 +51,6 @@ This project is a static HTML site that is used to showcase the projects I have 
     ![Contact Page Mockup](readme-assets/images/contact-wireframe.png)
 
 # Features
-
 ## All Pages
 - __Title Bar__
     - Main title for the site, presenting a quick, single statement to the user describing what they can expect to see on the site.  
@@ -188,11 +187,11 @@ The site and all functionality has been tested in the following browsers:
 ## Validator Testing
 - __The site has been tested with the following validators:__
     - ### HTML:
-    - https://validator.w3.org/nu/?doc=https%3A%2F%2Fsijil82.github.io%2Fgame-dev-portfolio%2F
+    - [W3C HTML Validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsijil82.github.io%2Fgame-dev-portfolio%2F)  
     - No issues found:  
     ![HTML Validator](readme-assets/images/testing-html-validation.png)  
     - ### CSS
-    - https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsijil82.github.io%2Fgame-dev-portfolio%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en  
+    - [W3C CSS Validation](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsijil82.github.io%2Fgame-dev-portfolio%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)  
     - A number of warnings and errors are returned, however these are all because the validator tool is not up to date with the current CSS specifications.
     ![CSS Validator Errors](readme-assets/images/css-validation-errors.png)  
     ![CSS Validator Warnings](readme-assets/images/css-validation-warnings.png)  
@@ -207,18 +206,23 @@ The site and all functionality has been tested in the following browsers:
     - Click the "Code" button and clone the repository locally.
     - Set the remote repository in your local clone with the command: `git remote set-url origin http://github.com/YOU/YOUR_REPO`
     - Adjust the page content to display your portfolio items as appropriate, and push the changes to your repository.
-    - In the GitHub repository, view the repository settings, and under the "Pages" section, set the Source to the main branch of the repository and click Save. GitHub will build and publish the site and provide a link to the public facing address.
+    - In the GitHub repository, click on the Settings button.
+    - Click the Pages tab on the left-hand menu.
+    - Select "Master" or "Main" from the Source drop down list.
+    - Click Save.
+    - GitHub will build and publish the site and provide a link to the public facing address.
+        - Note that this can take up to 5 minutes to fully deploy.
 
 # Credits
 - __The following resources were used while developing this project:__
-    - Colour palette: https://coolors.co/3d5a80-98c1d9-e0fbfc-ee6c4d-293241
+    - Colour palette: [coolors.co](https://coolors.co/3d5a80-98c1d9-e0fbfc-ee6c4d-293241)  
     - Fonts:
-        - Title: https://fonts.google.com/specimen/Voltaire
-        - Main text: https://fonts.google.com/specimen/PT+Sans
-    - Image thumbnail to full size functionality: https://fancyapps.com/docs/ui/quick-start
-    - CSS Variables documentation: https://www.w3schools.com/css/css3_variables.asp
-    - Set page to not count scrollbar as content width: https://stackoverflow.com/questions/18548465/prevent-scroll-bar-from-adding-up-to-the-width-of-page-on-chrome
-    - Contact form grid layout: https://www.sitepoint.com/css-grid-web-form-layout/
-    - Inline script to default video player volume to 50%: https://stackoverflow.com/questions/7582385/is-there-a-way-to-set-the-default-html5-video-volume
+        - Title: [Google Fonts - Voltaire](https://fonts.google.com/specimen/Voltaire)
+        - Main text: [Google Fonts - PT Sans](https://fonts.google.com/specimen/PT+Sans)  
+    - Image thumbnail to full size functionality: [Fancy Apps](https://fancyapps.com/docs/ui/quick-start)
+    - CSS Variables documentation: [W3 Schools - CSS Variables](https://www.w3schools.com/css/css3_variables.asp)
+    - Set page to not count scrollbar as content width: [Stack overflow](https://stackoverflow.com/questions/18548465/prevent-scroll-bar-from-adding-up-to-the-width-of-page-on-chrome)
+    - Contact form grid layout: [Sitepoint](https://www.sitepoint.com/css-grid-web-form-layout/)
+    - Inline script to default video player volume to 50%: [Stack overflow](https://stackoverflow.com/questions/7582385/is-there-a-way-to-set-the-default-html5-video-volume)
 - __Additional mentions:__
     - I would like to thank my Code Institute mentor Tim Nelson for his encouragement, support and insight while developing the project.
