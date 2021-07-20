@@ -26,8 +26,8 @@ This project is a static HTML site that is used to showcase the projects I have 
 * [Deployment](#deployment)
 * [Credits](#credits)
 
-## Design
-### User Stories
+# Design
+## User Stories
 - __As an end user of the site, I want to:__
     - Be quickly presented with a clear understanding of what the website is about.
     - Be able to navigate the site with an intuitive layout, and not have to guess what to do to get where I want to go.
@@ -40,7 +40,7 @@ This project is a static HTML site that is used to showcase the projects I have 
     - Allow site users to contact me to discuss the projects on my site.
     - Give users links to other sites etc. that can give them more information about me.
 
-### Site Mockups
+## Site Mockups
 -  __Index Page__
     - ![Index Page Mockup](readme-assets/images/index-wireframe.png)
 - __Portfolio Item Specific Page__
@@ -50,10 +50,9 @@ This project is a static HTML site that is used to showcase the projects I have 
 - __Contact Page__
     - ![Contact Page Mockup](readme-assets/images/contact-wireframe.png)
 
-## Features
+# Features
 
-### All Pages
-
+## All Pages
 - __Title Bar__
     - Main title for the site, presenting a quick, single statement to the user describing what they can expect to see on the site.  
     ![Title Bar](readme-assets/images/title-bar.png)
@@ -71,8 +70,7 @@ This project is a static HTML site that is used to showcase the projects I have 
     - Both the title bar and navigation bar stick to the top of the page, with other content hiding behind it when the page is scrolled, meaning the page navigation is always visible to the user.  
     ![Title and Navigation Always Visible](readme-assets/images/sticky-navigation.png)
 
-### Home Page    
-
+## Home Page    
 - __Portfolio Items__
     - This section presents the different portfolio items to the user.
     - A screenshot of the start screen is shown, followed by the title of the game, the date the game was published and a brief description of the game.  
@@ -81,7 +79,7 @@ This project is a static HTML site that is used to showcase the projects I have 
     - This button features a high contrast underline on the text when the user hovers over it, providing visual feedback that it can be clicked on.  
     ![More Details Button Hover](readme-assets/images/more-details-button-hover.png)
 
-### About Page
+## About Page
 - __About Me__
     - A stylised picture of me created using https://www.bitmoji.com/ is displayed.  
     - A few short paragraphs of text describing my past career and progress into game development is placed next to the image, to give the user a quick insight into what I've done to date.  
@@ -92,7 +90,7 @@ This project is a static HTML site that is used to showcase the projects I have 
     - As all links are to external sites, the target for each link is set to open a new browser tab.  
     ![About Me Links](readme-assets/images/about-me-links-hover.png)
 
-### Contact Page
+## Contact Page
 - __Contact Form__
     - Presents the user with a method to contact me with a short message, supplying their name and email address to allow for a response to be sent back.  
     - Submit and form reset buttons are present to allow the user to send their message, or clear the form out if they wish to re-start or cancel sending the message.  
@@ -104,7 +102,7 @@ This project is a static HTML site that is used to showcase the projects I have 
     - The submit and form reset buttons feature the same mouse over highlighting to give the user visual feedback that the button can be clicked.  
     ![Contact Form Buttons](readme-assets/images/contact-form-button-highlight.png)
 
-### Game Specific Pages
+## Game Specific Pages
 - __Gameplay Video__
     - A video for each game is presented to the user as the first content on the page, allowing them to preview what the game is like.  
     - The video has controls for the user to initiate and manage playback and volume. The video does not autoplay.  
@@ -119,12 +117,9 @@ This project is a static HTML site that is used to showcase the projects I have 
     - The thumbnails can be clicked to open the full size image in a new browser tab / window.  
     ![Portfolio Item Screenshot Gallery](readme-assets/images/portfolio-specific-screenshots.png)
 
-
-
-## Testing
-
-### Functionality and Feature Testing
-#### User Story Testing
+# Testing
+## Functionality and Feature Testing
+## User Story Testing
 - __As an end user of the site, I want to:__
     - Be quickly presented with a clear understanding of what the website is about.  
         - The page title shows the user a quick, clear high level description of the page content.  
@@ -168,35 +163,35 @@ This project is a static HTML site that is used to showcase the projects I have 
     - Give users links to other sites etc. that can give them more information about me.
         - The About page has a series of links to other sites that provide more information about me.
         ![Testing - Additional Links](readme-assets/images/testing-additional-links.png) 
-#### Browser Testing
-- __The site and all functionality has been tested in the following browsers:__
-    - #### Firefox on Windows Desktop:  
-    ![Firefox - Home](readme-assets/images/browser-test-firefox-home.png)  
-    ![Firefox - About](readme-assets/images/browser-test-firefox-about.png)   
-    ![Firefox - Contact](readme-assets/images/browser-test-firefox-contact.png)  
-    ![Firefox - Portfolio](readme-assets/images/browser-test-firefox-portfolio.png)  
-    - #### Chrome on Windows Desktop:  
-    ![Chrome - Home](readme-assets/images/browser-test-chrome-home.png)  
-    ![Chrome - About](readme-assets/images/browser-test-chrome-about.png)   
-    ![Chrome - Contact](readme-assets/images/browser-test-chrome-contact.png)  
-    ![Chrome - Portfolio](readme-assets/images/browser-test-chrome-portfolio.png)  
-    - #### Firefox on Android:  
-    ![Firefox - Android - Home](readme-assets/images/browser-test-firefox-android-home.jpg?s=450)  
-    ![Firefox - Android - About](readme-assets/images/browser-test-firefox-android-about.jpg)  
-    ![Firefox - Android - Contact](readme-assets/images/browser-test-firefox-android-contact.jpg)  
-    ![Firefox - Android - Portfolio](readme-assets/images/browser-test-firefox-android-portfolio.jpg)  
-    - #### Chrome on Android:  
-    ![Chrome - Android - Home](readme-assets/images/browser-test-chrome-android-home.jpg)  
-    ![Chrome - Android - About](readme-assets/images/browser-test-chrome-android-about.jpg)  
-    ![Chrome - Android - Contact](readme-assets/images/browser-test-chrome-android-contact.jpg)  
-    ![Chrome - Android - Portfolio](readme-assets/images/browser-test-chrome-android-portfolio.jpg)  
-### Validator Testing
+## Browser Testing
+The site and all functionality has been tested in the following browsers:
+### Firefox on Windows Desktop:  
+![Firefox - Home](readme-assets/images/browser-test-firefox-home.png)  
+![Firefox - About](readme-assets/images/browser-test-firefox-about.png)   
+![Firefox - Contact](readme-assets/images/browser-test-firefox-contact.png)  
+![Firefox - Portfolio](readme-assets/images/browser-test-firefox-portfolio.png)  
+### Chrome on Windows Desktop:  
+![Chrome - Home](readme-assets/images/browser-test-chrome-home.png)  
+![Chrome - About](readme-assets/images/browser-test-chrome-about.png)   
+![Chrome - Contact](readme-assets/images/browser-test-chrome-contact.png)  
+![Chrome - Portfolio](readme-assets/images/browser-test-chrome-portfolio.png)  
+### Firefox on Android:  
+![Firefox - Android - Home](readme-assets/images/browser-test-firefox-android-home.jpg)  
+![Firefox - Android - About](readme-assets/images/browser-test-firefox-android-about.jpg)  
+![Firefox - Android - Contact](readme-assets/images/browser-test-firefox-android-contact.jpg)  
+![Firefox - Android - Portfolio](readme-assets/images/browser-test-firefox-android-portfolio.jpg)  
+### Chrome on Android:  
+![Chrome - Android - Home](readme-assets/images/browser-test-chrome-android-home.jpg)  
+![Chrome - Android - About](readme-assets/images/browser-test-chrome-android-about.jpg)  
+![Chrome - Android - Contact](readme-assets/images/browser-test-chrome-android-contact.jpg)  
+![Chrome - Android - Portfolio](readme-assets/images/browser-test-chrome-android-portfolio.jpg)  
+## Validator Testing
 - __The site has been tested with the following validators:__
-    - #### HTML:
+    - ### HTML:
     - https://validator.w3.org/nu/?doc=https%3A%2F%2Fsijil82.github.io%2Fgame-dev-portfolio%2F
     - No issues found:  
     ![HTML Validator](readme-assets/images/testing-html-validation.png)  
-    - #### CSS
+    - ### CSS
     - https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsijil82.github.io%2Fgame-dev-portfolio%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en  
     - A number of warnings and errors are returned, however these are all because the validator tool is not up to date with the current CSS specifications.
     ![CSS Validator Errors](readme-assets/images/css-validation-errors.png)  
@@ -204,17 +199,17 @@ This project is a static HTML site that is used to showcase the projects I have 
     - The "Value Error : border-bottom Invalid RGB function ) ", "Invalid RGB function )" errors and "is an unknown vendor extension" warnings are due to the validator not supporting custom CSS properties, which have been a valid part of the CSS specification for a number of years, as per https://github.com/w3c/css-validator/pull/173  
     - The "Property text-underline-offset doesn't exist" error is also because the validator has not been updated with the addition of this valid CSS property, as per https://developer.mozilla.org/en-US/docs/Web/CSS/text-underline-offset  
 
-## Deployment
+# Deployment
 - __To view the deployed project:__
     - The project is currently deployed to GitHub pages and can be viewed at https://sijil82.github.io/game-dev-portfolio/
 - __To deploy a copy of the project:__
     - Open the GitHub repository at https://github.com/SiJiL82/game-dev-portfolio
     - Click the "Code" button and clone the repository locally.
-    - Set the remote repository in your local clone with the command: git remote set-url origin http://github.com/YOU/YOUR_REPO
+    - Set the remote repository in your local clone with the command: `git remote set-url origin http://github.com/YOU/YOUR_REPO`
     - Adjust the page content to display your portfolio items as appropriate, and push the changes to your repository.
     - In the GitHub repository, view the repository settings, and under the "Pages" section, set the Source to the main branch of the repository and click Save. GitHub will build and publish the site and provide a link to the public facing address.
 
-## Credits
+# Credits
 - __The following resources were used while developing this project:__
     - Colour palette: https://coolors.co/3d5a80-98c1d9-e0fbfc-ee6c4d-293241
     - Fonts:
