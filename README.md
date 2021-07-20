@@ -16,6 +16,8 @@ This project is a static HTML site that is used to showcase the projects I have 
     * [Game Specific Pages](#game-specific-pages)
 * [Testing](#testing)
     * [Functionality and Feature Testing](#functionality-and-feature-testing)
+        * [User Stories](#user-story-testing)
+        * [Browser Testing](#browser-testing)
     * [Validator Testing](#validator-testing)
 * [Deployment](#deployment)
 * [Credits](#credits)
@@ -118,7 +120,7 @@ This project is a static HTML site that is used to showcase the projects I have 
 ## Testing
 
 ### Functionality and Feature Testing
-#### User Stories
+#### User Story Testing
 - __As an end user of the site, I want to:__
     - Be quickly presented with a clear understanding of what the website is about.  
         - The page title shows the user a quick, clear high level description of the page content.  
@@ -162,8 +164,13 @@ This project is a static HTML site that is used to showcase the projects I have 
     - Give users links to other sites etc. that can give them more information about me.
         - The About page has a series of links to other sites that provide more information about me.
         ![Testing - Additional Links](readme-assets/images/testing-additional-links.png) 
-[//]: # (Insert testing screenshots once all pages in place.)
-
+#### Browser Testing
+- __The site and all functionality has been tested in the following browsers:__
+    - Firefox on Windows Desktop:  
+    ![Firefox - Home](readme-assets/images/browser-test-firefox-home.png) 
+    ![Firefox - About](readme-assets/images/browser-test-firefox-about.png) 
+    ![Firefox - Contact](readme-assets/images/browser-test-firefox-contact.png) 
+    ![Firefox - Portfolio](readme-assets/images/browser-test-firefox-portfolio.png) 
 ### Validator Testing
 [//]: # (Insert screenshots of HTML https://validator.w3.org and CSS https://jigsaw.w3.org/css-validator/ validators when testing complete.)
 
