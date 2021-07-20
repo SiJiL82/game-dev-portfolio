@@ -142,6 +142,8 @@ This project is a static HTML site that is used to showcase the projects I have 
         - Clicking the gallery thumbnail enlarges the image to make it more easily viewable.
         ![Testing - Media - Large Screenshot](readme-assets/images/testing-media-large-screenshot.png)
     - Have a clear description of what each item in the portfolio is.
+        - Each portfolio item has a quick summary on the main index page, and a detailed description on its dedicated page.  
+        ![Testing - Project Description](readme-assets/images/testing-project-description.png)
     - Be able to play the games being showcased.
 - __As someone using the site as a portfolio, I want to:__
     - Be able to add new items to the portfolio easily, with each one styled consistently.
