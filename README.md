@@ -120,13 +120,16 @@ This project is a static HTML site that is used to showcase the projects I have 
 ### Functionality and Feature Testing
 ### User Stories
 - __As an end user of the site, I want to:__
-    - Be quickly presented with a clear understanding of what the website is about.
-        - The page title shows the user a quick, clear high level description of the page content.
+    - Be quickly presented with a clear understanding of what the website is about.  
+        - The page title shows the user a quick, clear high level description of the page content.  
         ![Testing - Site Purpose](readme-assets/images/testing-site-purpose.png)
-        - The About page provides the user with more information on this topic, and the link to it is one of the first things the user will see.
-        ![Testing - Site Purpose](readme-assets/images/testing-site-purpose-about.png)
+        - The About page provides the user with more information on this topic, and the link to it is one of the first things the user will see.  
+        ![Testing - Site Purpose About Page](readme-assets/images/testing-site-purpose-about.png)
     - Be able to navigate the site with an intuitive layout, and not have to guess what to do to get where I want to go.
-        - Links in the navigation bar are clearly defined as to their destination, and allow traversal between the key pages from each page.
+        - Links in the navigation bar are clearly defined as to their destination, and allow traversal between the key pages from each page.  
+        ![Testing - Navbar Links - Home](readme-assets/images/testing-navbar-home.png)  
+        ![Testing - Navbar Links - Home](readme-assets/images/testing-navbar-about.png)  
+        ![Testing - Navbar Links - Home](readme-assets/images/testing-navbar-contact.png)  
         - Buttons on items are labelled appropriately showing where they will take the user
     - See media for the games being presented that is displayed at an easy to see size.
     - Have a clear description of what each item in the portfolio is.
