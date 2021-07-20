@@ -18,6 +18,10 @@ This project is a static HTML site that is used to showcase the projects I have 
     * [Functionality and Feature Testing](#functionality-and-feature-testing)
         * [User Stories](#user-story-testing)
         * [Browser Testing](#browser-testing)
+            * [Firefox on Windows](#firefox-on-windows-desktop)
+            * [Chrome on Windows](#chrome-on-windows-desktop)
+            * [Firefox on Android](#firefox-on-android)
+            * [Chrome on Android](#chrome-on-android)
     * [Validator Testing](#validator-testing)
 * [Deployment](#deployment)
 * [Credits](#credits)
@@ -166,27 +170,31 @@ This project is a static HTML site that is used to showcase the projects I have 
         ![Testing - Additional Links](readme-assets/images/testing-additional-links.png) 
 #### Browser Testing
 - __The site and all functionality has been tested in the following browsers:__
-    - Firefox on Windows Desktop:  
+    - #### Firefox on Windows Desktop:  
     ![Firefox - Home](readme-assets/images/browser-test-firefox-home.png)  
     ![Firefox - About](readme-assets/images/browser-test-firefox-about.png)   
     ![Firefox - Contact](readme-assets/images/browser-test-firefox-contact.png)  
     ![Firefox - Portfolio](readme-assets/images/browser-test-firefox-portfolio.png)  
-    - Chrome on Windows Desktop:  
+    - #### Chrome on Windows Desktop:  
     ![Chrome - Home](readme-assets/images/browser-test-chrome-home.png)  
     ![Chrome - About](readme-assets/images/browser-test-chrome-about.png)   
     ![Chrome - Contact](readme-assets/images/browser-test-chrome-contact.png)  
     ![Chrome - Portfolio](readme-assets/images/browser-test-chrome-portfolio.png)  
-    - Firefox on Android:  
+    - #### Firefox on Android:  
     ![Firefox - Android - Home](readme-assets/images/browser-test-firefox-android-home.jpg?s=450)  
     ![Firefox - Android - About](readme-assets/images/browser-test-firefox-android-about.jpg)  
     ![Firefox - Android - Contact](readme-assets/images/browser-test-firefox-android-contact.jpg)  
     ![Firefox - Android - Portfolio](readme-assets/images/browser-test-firefox-android-portfolio.jpg)  
-    - Chrome on Android:  
+    - #### Chrome on Android:  
     ![Chrome - Android - Home](readme-assets/images/browser-test-chrome-android-home.jpg)  
     ![Chrome - Android - About](readme-assets/images/browser-test-chrome-android-about.jpg)  
     ![Chrome - Android - Contact](readme-assets/images/browser-test-chrome-android-contact.jpg)  
     ![Chrome - Android - Portfolio](readme-assets/images/browser-test-chrome-android-portfolio.jpg)  
 ### Validator Testing
+- __The site has been tested with the following validators:__
+    - HTML: https://validator.w3.org/nu/?doc=https%3A%2F%2Fsijil82.github.io%2Fgame-dev-portfolio%2F
+    - No issues found:  
+    ![HTML Validator](readme-assets/images/testing-html-validation.png)  
 [//]: # (Insert screenshots of HTML https://validator.w3.org and CSS https://jigsaw.w3.org/css-validator/ validators when testing complete.)
 
 ## Deployment
