@@ -215,15 +215,15 @@ This project is a static HTML site that is used to showcase the projects I have 
     - In the GitHub repository, view the repository settings, and under the "Pages" section, set the Source to the main branch of the repository and click Save. GitHub will build and publish the site and provide a link to the public facing address.
 
 ## Credits
-Colour palette: https://coolors.co/3d5a80-98c1d9-e0fbfc-ee6c4d-293241
-
-Fonts:
-Title: https://fonts.google.com/specimen/Voltaire
-Main text: https://fonts.google.com/specimen/PT+Sans
-
-Resources:
-CSS Variables: https://www.w3schools.com/css/css3_variables.asp
-https://stackoverflow.com/questions/18548465/prevent-scroll-bar-from-adding-up-to-the-width-of-page-on-chrome
-https://www.sitepoint.com/css-grid-web-form-layout/
-https://stackoverflow.com/questions/7582385/is-there-a-way-to-set-the-default-html5-video-volume
-https://fancyapps.com/docs/ui/quick-start
+- __The following resources were used while developing this project:__
+    - Colour palette: https://coolors.co/3d5a80-98c1d9-e0fbfc-ee6c4d-293241
+    - Fonts:
+        - Title: https://fonts.google.com/specimen/Voltaire
+        - Main text: https://fonts.google.com/specimen/PT+Sans
+    - Image thumbnail to full size functionality: https://fancyapps.com/docs/ui/quick-start
+    - CSS Variables documentation: https://www.w3schools.com/css/css3_variables.asp
+    - Set page to not count scrollbar as content width: https://stackoverflow.com/questions/18548465/prevent-scroll-bar-from-adding-up-to-the-width-of-page-on-chrome
+    - Contact form grid layout: https://www.sitepoint.com/css-grid-web-form-layout/
+    - Inline script to default video player volume to 50%: https://stackoverflow.com/questions/7582385/is-there-a-way-to-set-the-default-html5-video-volume
+- __Additional mentions:__
+    - I would like to thank my Code Institute mentor Tim Nelson for his encouragement, support and insight while developing the project.
