@@ -31,22 +31,25 @@
     <div class="content">
         <section>
             <div class="portfolio-item bottom-drop-shadow">
-                <div>
-                    Video
-                </div>
+                <video class="portfolio-item-video" controls onloadstart="this.volume=0.5">
+                    <source src="" type="video/mp4">
+                    Your browser does not support the embedded video.
+                </video>
                 <h2 class="portfolio-item-title">Title</h2>
                 <h3 class="portfolio-item-date">Date</h3>
                 <p>
                     Description
                 </p>
-                <div>
-                    Play button
+                <div class="center-align">
+                    <a href="" target="_blank" class="button">Play!</a>
                 </div>
-                <div>
-                    Screenshot Gallery
+                <h2 class="portfolio-item-title">Screenshots:</h2>
+                <div class="portfolio-item-screenshot-gallery">
+                    <a data-fancybox="single" href=""><img src=""></a>
                 </div>
             </div>
         </section>
     </div>
+    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js"></script>
 </body>
 </html>
