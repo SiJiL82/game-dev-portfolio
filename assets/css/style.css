@@ -374,4 +374,9 @@ header {
         float: unset;
         width: 100%;
     }
+
+    /* Portfolio Item Pages */
+    .portfolio-item-video {
+        height: 200px;
+    }
 }
