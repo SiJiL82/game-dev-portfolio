@@ -312,6 +312,11 @@ header {
         padding-right: 40px;
         height: 100%;
     }
+
+    /* Portfolio Item Pages */
+    .portfolio-item-screenshot-gallery {
+        column-count: 2;
+    }
 }
 
 /* Medium screen sizes under 730px wide */
@@ -358,6 +363,4 @@ header {
         float: unset;
         width: 100%;
     }
-
-    
 }
