@@ -41,14 +41,14 @@ This project is a static HTML site that is used to showcase the projects I have 
     - Give users links to other sites etc. that can give them more information about me.
 
 ## Site Mockups
--  __Index Page__
-    - ![Index Page Mockup](readme-assets/images/index-wireframe.png)
-- __Portfolio Item Specific Page__
-    - ![Portfolio Item Page Mockup](readme-assets/images/portfolio-item-wireframe.png)
-- __About Page__
-    - ![About Page Mockup](readme-assets/images/about-wireframe.png)
-- __Contact Page__
-    - ![Contact Page Mockup](readme-assets/images/contact-wireframe.png)
+### Index Page
+    ![Index Page Mockup](readme-assets/images/index-wireframe.png)
+### Portfolio Item Specific Page
+    ![Portfolio Item Page Mockup](readme-assets/images/portfolio-item-wireframe.png)
+### About Page
+    ![About Page Mockup](readme-assets/images/about-wireframe.png)
+### Contact Page
+    ![Contact Page Mockup](readme-assets/images/contact-wireframe.png)
 
 # Features
 
